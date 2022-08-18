@@ -1,0 +1,16 @@
+ABRIR CMD como administrador
+ escribir comando 
+>>cd
+PEGAR
+setup /download configuration.xml
+QUEDARÁ ASÍ
+>>cd setup /download configuration.xml
+ENTER
+Aparece una App de instalación 
+esperar la descarga e instalción automática
+
+
+FUENTE:
+CANAL YOUTUBE 
+GhostHacker503
+https://www.youtube.com/watch?v=HwhVUi4MN2M
